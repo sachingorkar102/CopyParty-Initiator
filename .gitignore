@@ -1,0 +1,8 @@
+/build
+/client
+/copyparty-sfx.py
+/cpconfig.config
+/credentials.json
+/dist
+/main.spec
+/pyinstaller.exe

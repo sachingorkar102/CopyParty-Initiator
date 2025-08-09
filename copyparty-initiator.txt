@@ -1,0 +1,2 @@
+config_path: C:\Users\sachi\OneDrive\Documents\CopyParty\Client\
+output_path: C:\Users\sachi\OneDrive\Documents\CopyParty\
